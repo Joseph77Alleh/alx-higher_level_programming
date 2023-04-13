@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+This is my first file on readme
+=======
 README.md
 General
 
@@ -26,3 +29,4 @@ What is deserialization
 How to convert a Python data structure to a JSON string
 
 How to convert a JSON string to a Python data structure
+>>>>>>> 2bda7b5075562d432fde52d5fa2726f152cbe84c
